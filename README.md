@@ -1,4 +1,4 @@
-## Hey! I'm Rita Marques
+## Hi! I'm Rita Marques
 I'm a software developer, currently studying Common Core at 42 Porto.
 
 ## 42 School Projects
@@ -18,4 +18,6 @@ I'm a software developer, currently studying Common Core at 42 Porto.
 
 ## Contact Information
  <a href='https://www.linkedin.com/in/rimarquef/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+  </a>
+ <a href="mailto:rita_mf@live.com.pt" ><img src='https://img.shields.io/badge/Email-100000?style=flat&color=0A66C2'/></a>
   </a>
