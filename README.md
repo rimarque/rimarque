@@ -11,7 +11,7 @@ I'm a software developer, currently studying Common Core at 42 Porto.
 | 1 | [born2beroot]() | Shell, CLI | 100% | This project is a System Administration related exercise: creating a virtual machine. |
 | 2 | [push_swap](https://github.com/rimarque/push_swap) | C | 125% | This project is about optimized data sorting: implementing the best algorithm to sort data on a stack, with a limited set of instructions, using the lowest possible number of actions. |
 | 2 | [pipex](https://github.com/rimarque/pipex) | C | 125% | This project is about handeling pipes and redirections, learing about processes and file descriptors. |
-| 2 | [FdF](https://github.com/rimarque/FD) | C | 100% | This project is about representing a landscape as a 3D object in which all surfaces are outlined in lines. |
+| 2 | [FdF](https://github.com/rimarque/FDF) | C | 100% | This project is about representing a landscape as a 3D object in which all surfaces are outlined in lines. |
 | 3 | [philosophers](https://github.com/rimarque/Philosophers) | C | 100% | This project is about solving the dining philosophers problem, using threads. |
 | 3 | [minishell]() | C | Building... | This project is about creating a simple shell: your own bash. |
 
