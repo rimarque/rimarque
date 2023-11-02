@@ -5,7 +5,7 @@ I'm a software developer, currently studying Common Core at 42 Porto.
 
 | Rank | Project | Language | Grade | Description |
 | :---: | :--- | :---: | :---: | :---: |
-| 1 | [libft](https://github.com/rimarque/Lv00_Libft_42) | C | 100% | This project is about codeing a C library. Is contains a lot of general purpuse functions my programs rely upon. |
+| 1 | [libft](https://github.com/rimarque/Lv00_Libft_42) | C | 100% | This project is about codeing a C library. It contains a lot of general purpuse functions my programs rely upon. |
 | 1 | [ft_printf](https://github.com/rimarque/printf) | C | 100% | This project is about recoding printf(). |
 | 1 | [get_next_line](https://github.com/rimarque/get_next_line) | C | 125% | This project is about programming a function that returns a line read from a file descriptor. |
 | 1 | [born2beroot]() | Shell, CLI | 100% | This project is a System Administration related exercise: creating a virtual machine. |
