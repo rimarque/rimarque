@@ -13,7 +13,7 @@ I'm a software developer, currently studying Common Core at 42 Porto.
 | 2 | [pipex](https://github.com/rimarque/pipex) | C | 125% | This project is about handeling pipes and redirections, learing about processes and file descriptors. |
 | 2 | [FdF](https://github.com/rimarque/FDF) | C | 100% | This project is about representing a landscape as a 3D object in which all surfaces are outlined in lines. |
 | 3 | [philosophers](https://github.com/rimarque/Philosophers) | C | 100% | This project is about solving the dining philosophers problem, using threads. |
-| 3 | [minishell]() | C | Building... | This project is about creating a simple shell: your own bash. |
+| 3 | [minishell](https://github.com/rimarque/Minishell) | C | 101% | This project is about creating a simple shell: your own bash. |
 
 
 ## Contact Information
