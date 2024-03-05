@@ -14,7 +14,7 @@ I'm a software developer, currently studying Common Core at 42 Porto.
 | 2 | [FdF](https://github.com/rimarque/FDF) | C | 100% | This project is about representing a landscape as a 3D object in which all surfaces are outlined in lines. |
 | 3 | [philosophers](https://github.com/rimarque/Philosophers) | C | 100% | This project is about solving the dining philosophers problem, using threads. |
 | 3 | [minishell](https://github.com/rimarque/Minishell) | C | 101% | This is a group project about creating a simple shell: your own bash. |
-| 4 | [miniRT](https://github.com/rimarque/minirt) | C | 101% | This is a group project about redering Computer-Generated-Images using the Ray-tracing tecnique. |
+| 4 | [miniRT](https://github.com/rimarque/minirt) | C | Building | This is a group project about redering Computer-Generated-Images using the Ray-tracing tecnique. |
 | 4 | [CPP (modulos 0 a 4)]() | C++ | Building... | Time to dive into Object Oriented Programming! This project contains 5 modules with some basic concepts to learn how to code in c++. |
 
 
