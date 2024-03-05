@@ -4,6 +4,8 @@
 - I'm actively seeking opportunities in the job market!
 - You can reach me at [rita_mf@live.com.pt]
 
+ <a href='https://www.linkedin.com/in/rimarquef/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+
 ## 42 School Projects
 
 | Rank | Project | Language | Grade | Description |
@@ -19,10 +21,3 @@
 | 3 | [minishell](https://github.com/rimarque/Minishell) | C | 101% | This is a group project about creating a simple shell: your own bash. |
 | 4 | [miniRT](https://github.com/rimarque/minirt) | C | Building | This is a group project about redering Computer-Generated-Images using the Ray-tracing tecnique. |
 | 4 | [CPP (modulos 0 a 4)]() | C++ | Building... | Time to dive into Object Oriented Programming! This project contains 5 modules with some basic concepts to learn how to code in c++. |
-
-
-## Contact Information
- <a href='https://www.linkedin.com/in/rimarquef/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
-  </a>
- <a href="mailto:rita_mf@live.com.pt" ><img src='https://img.shields.io/badge/Email-100000?style=flat&color=0A66C2'/></a>
-  </a>
