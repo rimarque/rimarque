@@ -4,7 +4,7 @@
 - I'm actively seeking opportunities in the job market!
 - You can reach me at [rita_mf@live.com.pt]
 
- <a href='https://www.linkedin.com/in/rimarquef/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+<a href="https://www.linkedin.com/in/mario18/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## 42 School Projects
 
