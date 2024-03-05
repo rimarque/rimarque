@@ -1,6 +1,6 @@
 ## Hi! I'm Rita Marques
-- I'm a software developer, currently finishing Common Core at 42 Porto.
-- I'm currently developing my skils in C and C++.
+- I'm currently finishing Common Core at 42 Porto, mastering my skils in C and C++;
+- I'm presently enrolled in the IBM Data Science Professional Certificate 10 course series.
 - I'm actively seeking opportunities in the job market!
 - You can reach me at [rita_mf@live.com.pt]
 
