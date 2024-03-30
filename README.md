@@ -11,7 +11,7 @@
 | 0 | [libft](https://github.com/rimarque/Lv00_Libft_42) | C | 100% | This project is about codeing a C library. It contains a lot of general purpuse functions my programs rely upon. |
 | 1 | [ft_printf](https://github.com/rimarque/printf) | C | 100% | This project is about recoding printf(). |
 | 1 | [get_next_line](https://github.com/rimarque/get_next_line) | C | 125% | This project is about programming a function that returns a line read from a file descriptor. |
-| 1 | [born2beroot]() | Shell, CLI | 100% | This project is a System Administration related exercise: creating a virtual machine. |
+| 1 | [born2beroot]() | Shell, CLI | 100% | This project is a System Administration related exercise: creating a virtual machine. Consists of setting up a server while following specific rules regarding partitions, open ports, hostname, password policy and sudo configuration, with a script displayed every 10 minutes. |
 | 2 | [push_swap](https://github.com/rimarque/push_swap) | C | 125% | This project is about optimized data sorting. |
 | 2 | [pipex](https://github.com/rimarque/pipex) | C | 125% | This project is about handeling pipes and redirections, learing about processes and file descriptors. |
 | 2 | [FdF](https://github.com/rimarque/FDF) | C | 100% | This project is about representing a landscape as a 3D object in which all surfaces are outlined in lines. |
