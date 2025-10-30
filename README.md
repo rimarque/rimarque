@@ -1,7 +1,7 @@
 ## Hi! I'm Rita Marques
 - I'm currently working as a QA Analist at Blip;
 - I finished the Common Core at 42 Porto, mastering my skils in C and C++;
-- I’m always eager to learn, developing high-quality software I strive for!
+- I’m always eager to learn, developing high-quality software is what I strive for!
 - You can reach me at [rita_mf@live.com.pt]
 
 
