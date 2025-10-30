@@ -20,4 +20,7 @@
 | 3 | [minishell](https://github.com/rimarque/Minishell) | C | 101% | This is a group project about creating a simple shell: your own bash. |
 | 4 | [miniRT](https://github.com/rimarque/minirt) | C | 100% | This is a group project about redering Computer-Generated-Images using the Ray-tracing tecnique. |
 | 4 & 5 | [CPP-Modules](https://github.com/rimarque/CPP-Modules)| C++ | 97% | Time to dive into Object Oriented Programming! This project contains 10 modules with some basic concepts to learn how to code in c++. |
-| 4 | [Inception] | Docker | 100% | This is a group project about redering Computer-Generated-Images using the Ray-tracing tecnique. |
+| 5 | [Inception](https://github.com/rimarque/Inception) | Docker | 100% | Building a Docker-based WordPress LEMP stack with Docker Compose on Debian stable. |
+| 5 | [ft_irc](https://github.com/JenniferAraujo/Ft_irc) | C++ | 97% | Group project - creating our own IRC server. |
+| 6 | [ft_transcendence](https://github.com/csilva-f/42cursus_lvl6_Transcendence) | JavaScript, Django, WebSockets, REST APIs | 120% | Group project to build an online Pong Game Platform: full-stack web application, designed as a microservices architecture with authentication, user profiles, friendships, tournaments, multilingual support, and real-time remote gameplay|
+
